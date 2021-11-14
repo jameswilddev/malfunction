@@ -17,9 +17,9 @@ This is a NPM package without any runtime NPM dependencies.  It targets NodeJS
 - Ubuntu 18.04
 - macOS 11 (Big Sur)
 - macOS 10.15 (Catalina)
-- windows-2022
-- windows-2019
-- windows-201
+- Windows Server 2022
+- Windows Server 2019
+- Windows Server 2016
 
 It is likely also possible to use this package as part of a web browser
 application through tools such as [webpack](https://webpack.js.org/).  This has
