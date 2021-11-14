@@ -1,4 +1,4 @@
-# Malfunction
+# Malfunction [![Continuous Integration](https://github.com/jameswilddev/malfunction/workflows/Continuous%20Integration/badge.svg)](https://github.com/jameswilddev/malfunction/actions) [![License](https://img.shields.io/github/license/jameswilddev/malfunction.svg)](https://github.com/jameswilddev/malfunction/blob/master/license) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjameswilddev%2Fmalfunction.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjameswilddev%2Fmalfunction?ref=badge_shield) [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 
 Computes all possible states of a procedurally-generated finite state machine
 and performs simple optimizations to eliminate duplicate states.
